@@ -1,0 +1,1 @@
+{"Tom": 100, "Alix": 75, "Hiran": 50, "Amelia": 20, "Ahmed": 10, "Sue": 10, "Scott": 7, "Sarah": 5, "Ayesha": 3, "Ali": 2, "Jane": 2, "Kim": 0, "Ben": 0, "Ralf": 0, "Penny": 0, "Jeffrey": -1, "Sally": -2, "Ian": -10, "Fred": -2}
